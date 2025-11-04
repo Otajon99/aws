@@ -1,4 +1,4 @@
-![Demo](https://github.com/username/repo-name/assets/12345/demo.gif)
+![Demo](https://www.dailymotion.com/video/x3ucsoh)
 
 ![Alt text](./picture.png)
 

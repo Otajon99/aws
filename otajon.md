@@ -1,5 +1,3 @@
-![Alt text](https://www.youtube.com/embed/dQw4w9WgXcQ)
-
 ![Alt text](./picture.png)
 
 # Lab: Hosting a Static Website on Amazon S3

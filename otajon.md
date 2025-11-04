@@ -1,3 +1,5 @@
+![Demo](https://github.com/username/repo-name/assets/12345/demo.gif)
+
 ![Alt text](./picture.png)
 
 # Lab: Hosting a Static Website on Amazon S3

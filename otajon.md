@@ -1,3 +1,5 @@
+(./VI_VIM Command Reference Guide.png)
+
 # Lab: Hosting a Static Website on Amazon S3
 
 ## Overview

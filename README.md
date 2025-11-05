@@ -9,12 +9,15 @@ Systems administrator with over 5 years of experience and extensive knowledge of
 
 #### Education:
 
-- Karakul Academic Lyceum of Bukhara State University
-(Information Technology and Exact Sciences) 
+- Karakul Academic Lyceum of Bukhara State University 
+(Information Technology and Exact Sciences)
+2015-2018
 - Inha University in Tashkent 
 (Bachalar's degree on Computer Science and Engineering)
+2018-
 - Ziyotek Institute of Technology 
-(DevOps Engineering) 
+(DevOps Engineering)
+2015-2016
 
 
 

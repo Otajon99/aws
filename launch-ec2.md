@@ -71,9 +71,6 @@ This lab walks you through launching, monitoring, securing, resizing, and managi
    systemctl enable httpd
    systemctl start httpd
    echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.html
-# 🚀 Launch and Manage an Amazon EC2 Instance
-
-This guide walks you through launching, monitoring, securing, resizing, and managing your **Amazon EC2 instance**.
 
 ---
 

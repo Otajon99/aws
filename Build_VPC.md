@@ -119,6 +119,7 @@ unzip lab-app.zip -d /var/www/html/
 # Turn on web server
 chkconfig httpd on
 service httpd start
+```
 
 ## 🪜 Step 8: Launch and Connect to Your Instance
 

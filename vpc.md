@@ -119,3 +119,44 @@ unzip lab-app.zip -d /var/www/html/
 # Turn on web server
 chkconfig httpd on
 service httpd start
+
+## 🪜 Step 8: Launch and Connect to Your Instance
+
+At the bottom of the **Summary** panel on the right side of the screen, choose **Launch instance**.
+
+You will see a **Success** message.
+
+---
+
+### 🔍 View Your Instances
+
+- Choose **View all instances**.
+- Wait until **Web Server 1** shows **2/2 checks passed** in the **Status check** column.  
+  > ⏳ This may take a few minutes.  
+  You can choose the **Refresh** 🔄 icon at the top of the page every 30 seconds to check the latest status.
+
+---
+
+### 🌐 Connect to the Web Server
+
+Once the instance is running:
+
+1. Select **Web Server 1**.
+2. Copy the **Public IPv4 DNS** value shown in the **Details** tab at the bottom of the page.
+3. Open a new browser tab, paste the copied **Public DNS**, and press **Enter**.
+
+You should now see a **web page displaying the AWS logo and instance meta-data values.**
+
+---
+
+### 🧱 Complete Architecture Deployed
+
+You have successfully deployed the following architecture:
+
+- **Amazon EC2 instance** running a web server
+- **Security Group** allowing inbound HTTP (port 80) traffic
+- **Elastic Block Store (EBS)** volume attached as root storage
+- **Instance metadata** accessible via browser
+- **Public IPv4 DNS** for external web access
+
+🎉 **Congratulations!** You have successfully launched and connected to your first web server on Amazon EC2.

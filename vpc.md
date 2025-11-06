@@ -1,4 +1,4 @@
-# 🧱 Lab 2: Build Your VPC and Launch a Web Server
+# 🧱 Build Your VPC and Launch a Web Server
 
 ## 📘 Overview
 In this lab, you will use **Amazon Virtual Private Cloud (VPC)** to create a custom virtual network and deploy an **EC2 web server** inside it.

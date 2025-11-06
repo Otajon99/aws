@@ -22,7 +22,7 @@ After completing this lab, you will be able to:
 
 ---
 
-![Scenario](./vpc_structure)
+![Scenario](./vpc_structure.png)
 
 ## 🧩 Task 1: Create Your VPC
 

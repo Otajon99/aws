@@ -1,5 +1,3 @@
-![Alt text](./picture.png)
-
 # Lab: Hosting a Static Website on Amazon S3
 
 ## Overview

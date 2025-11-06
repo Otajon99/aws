@@ -22,6 +22,8 @@ After completing this lab, you will be able to:
 
 ---
 
+![Scenario](./vpc_structure)
+
 ## 🧩 Task 1: Create Your VPC
 
 ### Steps:

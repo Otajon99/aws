@@ -1,5 +1,3 @@
-![Alt text](./picture.png)
-
 # Lab: Hosting a Static Website on Amazon S3
 
 ## Overview
@@ -187,4 +185,4 @@ Try these additional challenges:
 - [AWS S3 Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
 - [AWS CLI S3 Commands](https://docs.aws.amazon.com/cli/latest/reference/s3/index.html)
 - [S3 Bucket Naming Rules](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)
-- [S3 Bucket Naming Rules](https://www.youtube.com/embed/dQw4w9WgXcQ)
+  

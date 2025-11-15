@@ -4,7 +4,7 @@
 #### LinkedIn: www.linkedin.com/in/otajon-burkhonov
 ---
 #### Summary:
-Systems administrator with over 8+ years of experience and extensive knowledge of Linux Systems administration including monitoring, troubleshooting, networking, scripting and configuring skills. Passionate about emerging technologies, interested in designing and implementing automated and redundant solutions. Strong ability to solve complex problems, absorb new information, work under pressure and adapt to evolving circumstances;
+DevOps Engineer with 8+ years of experience in Linux systems administration, DevOps practices, and cloud infrastructure management. Proficient in configuring, monitoring, and troubleshooting complex systems and networks. Skilled in automation, cloud computing (AWS, Azure, GCP), and infrastructure-as-code to deliver scalable, secure, and redundant solutions. Passionate about adopting emerging technologies and designing systems that enhance performance, reliability, and efficiency.
 
 
 #### Education:

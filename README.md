@@ -1,4 +1,4 @@
-# 🌈 Top 50+ AWS Services — Complete Summary
+# Top 50+ AWS Services — Complete Summary
 
 A clean, colorful, and beginner-friendly overview of **the most important AWS services** across Compute, Storage, Networking, Databases, Security, DevOps, ML, Analytics, and more.
 
